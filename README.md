@@ -85,6 +85,7 @@ Creating calculated columns
 Removing rows and columns
 
 **Project Structure**
+
 python-data-analysis-numpy-pandas/
 │
 ├── data_analysis.ipynb
